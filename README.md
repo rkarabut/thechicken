@@ -1,6 +1,6 @@
 # The Chicken
 
-*SHOW CHICKEN >:(*
+*SHOW CHICKEN >:( -- hlt, [hxp](https://hxp.io)*
 
 This repository contains the custom sprite sheet developed for modding the Hackceler8 2020 game challenge.
 
